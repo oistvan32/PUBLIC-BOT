@@ -105,4 +105,4 @@ if(cmd === `${prefix}help`) {
 }
 });
  
-client.login('ODM5Nzk1MzAzMDYyMDQ0Njky.YJO2Ug.JiAYiWXC00ONiG8DO29SdEo0dAc');
+client.login('TOKENED');
